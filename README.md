@@ -16,11 +16,11 @@
 
 
 ## Tools:
-Python 3.13.0
-Selenium
-WebDriver (ChromeWebDriver)
-Pandas
-Time
+- Python 3.13.0
+- Selenium
+- WebDriver (ChromeWebDriver)
+- Pandas
+- Time
 
 
 
