@@ -5,7 +5,7 @@
 
 
 
-## ***This project extracts detailed information about the Top 250 TV Shows from IMDb using Python and the Selenium library. The extracted data includes:***
+## ***Extracting detailed information about the Top-250-TV-Shows from IMDb using **Python** and the **Selenium library.** The extracted data includes:***
 
 - **TV Show Names**
 - **Release Years**
@@ -16,7 +16,6 @@
 
 
 ## Tools:
-
 Python 3.13.0
 Selenium
 WebDriver (ChromeWebDriver)
@@ -27,7 +26,6 @@ Time
 
 
 # UseCases:
-
 
 ## Data Analysis and Visualization
 **Visualizations:**
