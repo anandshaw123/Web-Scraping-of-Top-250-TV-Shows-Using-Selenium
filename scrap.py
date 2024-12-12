@@ -88,10 +88,10 @@ def web_Scraping_of_Top_TV_Shows(url, chrome_driver_path = "chromedriver-win64//
         "Rating":TV_Shows_Ratings,
         "Rating given by people":Review_Count_Numbers
     }
-
+    ## Creating a DataFrame
     df = pd.DataFrame(data)
     
-
+    ## Convert Extracting Data into CSV File
     df.to_csv("imdb_Top_250_TV_Shows.csv",index=False)
     print("Data saved Into 'imdb_Top_250_TV_Shows.csv'")
 
